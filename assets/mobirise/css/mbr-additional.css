@@ -2642,6 +2642,27 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rKQkQNerSK {
+  background: #e4d295;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rKQkQNerSK .image-block {
+  margin: auto;
+}
+.cid-rKQkQNerSK figcaption {
+  position: relative;
+}
+.cid-rKQkQNerSK figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rKQkQNerSK .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rKMckB4FI0 {
   padding-top: 60px;
   padding-bottom: 60px;
